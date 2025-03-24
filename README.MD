@@ -1,3 +1,9 @@
+
+###Project Overview
+
+A CRM tool for auto-repair shops to streamline customer data management and optimize operational workflows.
+
+
 #### Setup
 
 ```bash
