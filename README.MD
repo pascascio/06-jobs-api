@@ -1,7 +1,7 @@
 
-###Project Overview
+### Project Overview
 
-A CRM tool for auto-repair shops to streamline customer data management and optimize operational workflows.
+Virtual Garage is a CRM tool for auto-repair shops to streamline customer data management and optimize operational workflows.
 
 
 #### Setup
